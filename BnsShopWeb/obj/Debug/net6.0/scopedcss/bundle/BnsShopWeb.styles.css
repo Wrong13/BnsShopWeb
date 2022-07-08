@@ -17,12 +17,13 @@ body[b-v5pjcmqzc2]
 {
   display: table;
   border-spacing: 60px 20px;
+  transition: 0.8s;
 }
 
 .wrap.active[b-v5pjcmqzc2]
 {
   border-spacing: 170px 20px;
-  transition: 0.7s;
+  transition: 0.8s;
 }
 
 .bblock[b-v5pjcmqzc2]
