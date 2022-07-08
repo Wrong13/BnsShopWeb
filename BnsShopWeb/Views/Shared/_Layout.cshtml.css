@@ -11,6 +11,24 @@ body
   min-height: 100vh;
   background: #365fa1;
 }
+
+.wrap
+{
+  display: table;
+  border-spacing: 60px 20px;
+}
+
+.wrap.active
+{
+  border-spacing: 170px 20px;
+  transition: 0.7s;
+}
+
+.bblock
+{
+  display: table-cell;
+}
+
 .navigation
 {
   position: fixed;

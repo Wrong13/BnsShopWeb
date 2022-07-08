@@ -11,6 +11,24 @@ body[b-v5pjcmqzc2]
   min-height: 100vh;
   background: #365fa1;
 }
+
+.wrap[b-v5pjcmqzc2]
+{
+  display: table;
+  border-spacing: 60px 20px;
+}
+
+.wrap.active[b-v5pjcmqzc2]
+{
+  border-spacing: 170px 20px;
+  transition: 0.7s;
+}
+
+.bblock[b-v5pjcmqzc2]
+{
+  display: table-cell;
+}
+
 .navigation[b-v5pjcmqzc2]
 {
   position: fixed;

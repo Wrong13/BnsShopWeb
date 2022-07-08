@@ -7,59 +7,64 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
     <link rel="stylesheet" href="~/BnsShopWeb.styles.css" asp-append-version="true"/>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css"/>
 </head>
 <body>
 
-<div class="navigation">
-    <ul>
-        <li>
-            <a href="#">
-                <span class="icon">
-                    <ion-icon name="desktop-outline"></ion-icon>
-                </span>
-                <span class="title">BnsShop</span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span class="icon">
-                    <ion-icon name="home-outline"></ion-icon>
-                </span>
-                <span class="title">Главная</span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span class="icon">
-                    <ion-icon name="person-outline"></ion-icon>
-                </span>
-                <span class="title">Заказчики</span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span class="icon">
-                    <ion-icon name="basket-outline"></ion-icon>
-                </span>
-                <span class="title">Корзина</span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span class="icon">
-                    <ion-icon name="extension-puzzle-outline"></ion-icon>
-                </span>
-                <span class="title">Помощь</span>
-            </a>
-        </li>
-    </ul>
-    <div class="toggle"></div>
-</div>
+<div class="wrap">
 
-<div class="container">
-    <main role="main" class="pb-3">
-        @RenderBody()
-    </main>
+    <div class="bblock navigation">
+        <ul>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="desktop-outline"></ion-icon>
+                    </span>
+                    <span class="title">BnsShop</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="home-outline"></ion-icon>
+                    </span>
+                    <span class="title">Главная</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="person-outline"></ion-icon>
+                    </span>
+                    <span class="title">Заказчики</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="basket-outline"></ion-icon>
+                    </span>
+                    <span class="title">Корзина</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon">
+                        <ion-icon name="extension-puzzle-outline"></ion-icon>
+                    </span>
+                    <span class="title">Помощь</span>
+                </a>
+            </li>
+        </ul>
+        <div class="toggle"></div>
+    </div>
+
+    <div class="bblock">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
 </div>
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
@@ -71,9 +76,11 @@
 
 <script>
 let navigation = document.querySelector('.navigation');
+let wrap = document.querySelector('.wrap');
 let toggle = document.querySelector('.toggle');
 toggle.onclick = function (){
     navigation.classList.toggle('active')
+    wrap.classList.toggle('active')
     }
 </script>
 

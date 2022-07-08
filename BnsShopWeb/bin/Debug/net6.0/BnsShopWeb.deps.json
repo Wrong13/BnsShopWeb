@@ -7,10 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "BnsShopWeb/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.0-beta1"
+        },
         "runtime": {
           "BnsShopWeb.dll": {}
         }
-      }
+      },
+      "bootstrap/5.2.0-beta1": {}
     }
   },
   "libraries": {
@@ -18,6 +22,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "bootstrap/5.2.0-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m2Aq5JragdRpy8H1PzONp/pdeHAVdRowz2yoB0YKxJWt4SkX78hluIeVjSU2CXlKt3kmNVzmyBgWWUrZdz4XHA==",
+      "path": "bootstrap/5.2.0-beta1",
+      "hashPath": "bootstrap.5.2.0-beta1.nupkg.sha512"
     }
   }
 }
