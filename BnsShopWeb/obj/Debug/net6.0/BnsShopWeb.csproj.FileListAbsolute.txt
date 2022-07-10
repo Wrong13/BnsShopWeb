@@ -24,3 +24,10 @@
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/BnsShopWeb.pdb
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/BnsShopWeb.genruntimeconfig.cache
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/ref/BnsShopWeb.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/MySqlConnector.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/BnsShopWeb.csproj.CopyComplete

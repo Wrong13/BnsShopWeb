@@ -1,5 +1,8 @@
+using BnsShopWeb.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<BnsContext>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

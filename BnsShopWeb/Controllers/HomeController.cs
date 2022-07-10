@@ -15,6 +15,12 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        using (BnsContext db = new BnsContext())
+        {
+            db.Products.Add(new Product { Title = "title", Type = "Type", Price = 100 });
+            db.SaveChanges();
+        }
+        
         return View();
     }
 
