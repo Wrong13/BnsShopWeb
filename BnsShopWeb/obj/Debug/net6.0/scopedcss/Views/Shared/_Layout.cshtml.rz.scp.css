@@ -14,13 +14,13 @@ body[b-v5pjcmqzc2]
 .wrap[b-v5pjcmqzc2]
 {
   display: table;
-  border-spacing: 60px 20px;
+  margin-left: auto;
+  margin-right: auto;
   transition: 0.6s;
 }
 
 .wrap.active[b-v5pjcmqzc2]
 {
-  border-spacing: 170px 20px;
   transition: 0.6s;
 }
 
@@ -44,7 +44,7 @@ body[b-v5pjcmqzc2]
 
 .navigation.active[b-v5pjcmqzc2]
 {
-  width: 300px;
+  width: 250px;
   border-radius: 20px;
 }
 
@@ -163,10 +163,12 @@ body[b-v5pjcmqzc2]
   color:#fff;
 }
 
+
 .navigation ul li:hover:not(:first-child) a[b-v5pjcmqzc2]
 {
   color: #365fa1;
 }
+
 
 .navigation ul li a .icon[b-v5pjcmqzc2]
 {

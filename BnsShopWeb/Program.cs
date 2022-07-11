@@ -1,4 +1,8 @@
 using BnsShopWeb.Models;
+using Microsoft.EntityFrameworkCore;
+
+BnsContext db = new BnsContext();
+db.Products.Load();
 
 var builder = WebApplication.CreateBuilder(args);
 

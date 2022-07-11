@@ -14,13 +14,13 @@ body
 .wrap
 {
   display: table;
-  border-spacing: 60px 20px;
+  margin-left: auto;
+  margin-right: auto;
   transition: 0.6s;
 }
 
 .wrap.active
 {
-  border-spacing: 170px 20px;
   transition: 0.6s;
 }
 
@@ -44,7 +44,7 @@ body
 
 .navigation.active
 {
-  width: 300px;
+  width: 250px;
   border-radius: 20px;
 }
 
@@ -163,10 +163,12 @@ body
   color:#fff;
 }
 
+
 .navigation ul li:hover:not(:first-child) a
 {
   color: #365fa1;
 }
+
 
 .navigation ul li a .icon
 {

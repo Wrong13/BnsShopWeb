@@ -1,5 +1,6 @@
 using BnsShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace BnsShopWeb.Controllers;
 
@@ -11,8 +12,8 @@ public class ProductsController : Controller
     {
         db = context;
     }
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        return View(db.Products.ToList());
+        return View(await db.Products.ToListAsync());
     }
 }
