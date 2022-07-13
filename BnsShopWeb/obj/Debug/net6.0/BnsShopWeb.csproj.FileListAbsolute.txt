@@ -31,3 +31,10 @@
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/MySqlConnector.dll
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/BnsShopWeb.csproj.CopyComplete
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.Mvc.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.Razor.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.Helpers.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.WebPages.Deployment.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.WebPages.Razor.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.WebPages.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.Web.Infrastructure.dll

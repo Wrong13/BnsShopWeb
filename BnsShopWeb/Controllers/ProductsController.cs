@@ -16,4 +16,20 @@ public class ProductsController : Controller
     {
         return View(await db.Products.ToListAsync());
     }
+
+    public IActionResult List(int page = 1)
+    {
+        ProductsListVM productsListVm = new ProductsListVM
+        {
+            Products = db.Products.OrderBy(x=>x.Id)
+                .Skip((page-1)*4).Take(4),
+            PagingInfo = new PagingInfo
+            {
+                CurrentPage = page,
+                ItemsPerPage = 4,
+                TotalItems = db.Products.ToList().Count
+            }
+        };
+        return View(productsListVm);
+    }
 }

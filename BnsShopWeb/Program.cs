@@ -1,5 +1,9 @@
+using System.Reflection.Metadata;
+using BnsShopWeb.Controllers;
 using BnsShopWeb.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
 
 BnsContext db = new BnsContext();
 db.Products.Load();

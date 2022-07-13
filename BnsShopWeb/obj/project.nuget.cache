@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fJKrSXig30mR+5gB3TIs06w/uIouBqEtp0G3T2Sjfj044FvJ41VuAAawYziSzDFg9OfOdlhS/d1S0b7vlXLdHA==",
+  "dgSpecHash": "Zyg4cwDln2rU09t+cxd82G3f6eMLy1jLlBu8+kFjnlJkx1LORSp1gtEujW5jXfKBdefv2U6Vy2nSeVWvFQUsmw==",
   "success": true,
   "projectFilePath": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj",
   "expectedPackageFiles": [
     "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/bootstrap.5.2.0-beta1.nupkg.sha512",
+    "/home/wrong/.nuget/packages/microsoft.aspnet.mvc/5.2.9/microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "/home/wrong/.nuget/packages/microsoft.aspnet.razor/3.2.9/microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "/home/wrong/.nuget/packages/microsoft.aspnet.webpages/3.2.9/microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.6/microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.6/microsoft.entityframeworkcore.analyzers.6.0.6.nupkg.sha512",
@@ -18,6 +21,7 @@
     "/home/wrong/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/wrong/.nuget/packages/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg.sha512",
     "/home/wrong/.nuget/packages/mysqlconnector/2.1.2/mysqlconnector.2.1.2.nupkg.sha512",
     "/home/wrong/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.1/pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "/home/wrong/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
@@ -27,5 +31,46 @@
     "/home/wrong/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
     "/home/wrong/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.6/microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Mvc 5.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Mvc",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Razor 3.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Razor",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebPages 3.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebPages",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
