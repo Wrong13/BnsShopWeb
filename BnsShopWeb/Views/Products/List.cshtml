@@ -1,24 +1,17 @@
-@model IEnumerable<BnsShopWeb.Models.Product>
+@using BnsShopWeb.HtmlHelpers
 
-<style>
-  .bg-light-blue
-  {
-      background: #287bff;
-      border-radius: 30px;
-  }
-</style>
+@model ProductsListVM
+
 @{
     ViewBag.Title = "title";
     Layout = "_Layout";
 }
 
-<h2>title</h2>
-
 <div class="album py-5 bg-light-blue">
     <div class="container">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        @foreach (var item in Model)
+        @foreach (var item in Model.Products)
         {
           <div class="col">
             <div class="card shadow-sm">
@@ -32,7 +25,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">В корзину</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Купить</button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                   </div>
                   <small class="text-muted">@Html.DisplayFor(x => item.Price)руб</small>
                 </div>
@@ -43,3 +36,7 @@
       </div>
     </div>
   </div>
+
+<div>
+    @Html.PageLinks(Model.PagingInfo, x=> Url.Action("List", new {page = x}))
+</div>

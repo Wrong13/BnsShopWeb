@@ -22,11 +22,11 @@ public class ProductsController : Controller
         ProductsListVM productsListVm = new ProductsListVM
         {
             Products = db.Products.OrderBy(x=>x.Id)
-                .Skip((page-1)*4).Take(4),
+                .Skip((page-1)*12).Take(12),
             PagingInfo = new PagingInfo
             {
                 CurrentPage = page,
-                ItemsPerPage = 4,
+                ItemsPerPage = 12,
                 TotalItems = db.Products.ToList().Count
             }
         };
