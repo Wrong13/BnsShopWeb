@@ -15,17 +15,12 @@ public static class PagingHelpers
     public static HtmlString PageLinks(this IHtmlHelper html, PagingInfo pagingInfo, Func<int, string> pageUrl)
     {
         TagBuilder tag = new TagBuilder("a");
-        string rezult = "<ul>";
+        string rezult = "<ul class=hr>";
         for (int i = 1; i <= pagingInfo.TotalPages; i++)
         {
             rezult += "<li>";
-            rezult += $"<a href={pageUrl(i)}> {i}";
-            tag.MergeAttribute("href", pageUrl(i));
-            if (i == pagingInfo.CurrentPage)
-            {
-                tag.AddCssClass("selected");
-                tag.AddCssClass("btn-primary");
-            }
+            rezult += $"<a href={pageUrl(i)} class=bblock>{i}";
+            
             rezult += "</a>";
             rezult += "</li>";
         }

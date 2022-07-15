@@ -6,6 +6,10 @@
     ViewBag.Title = "title";
     Layout = "_Layout";
 }
+<head>
+  <link rel="stylesheet" href="~/css/ProductsList.css"/>
+</head>
+
 
 <div class="album py-5 bg-light-blue">
     <div class="container">
@@ -37,6 +41,6 @@
     </div>
   </div>
 
-<div>
-    @Html.PageLinks(Model.PagingInfo, x=> Url.Action("List", new {page = x}))
+<div class="hr">
+  @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
 </div>
