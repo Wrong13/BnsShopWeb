@@ -1,5 +1,6 @@
 using BnsShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
+using SessionExtensions = Microsoft.AspNetCore.Http.SessionExtensions;
 
 
 namespace BnsShopWeb.Controllers;
@@ -10,14 +11,24 @@ public class CartController : Controller
     // GET
     public ViewResult Index(string returnUrl)
     {
-        return View(new CartVM
+        return View(new CartIndexVM()
         {
             Cart = GetCart(),
             ReturnUrl = returnUrl
         });
     }
 
-    public RedirectToRouteResult AddToCart(int productId, string returnUrl)
+    [HttpPost]
+    public async Task CartAdd(int productId)
+    {
+        Product product = db.Products.FirstOrDefault(x => x.Id == productId);
+        if (product != null)
+        {
+            GetCart().AddItem(product, 1);
+        }
+    }
+    
+    public RedirectToRouteResult AddToCart(int productId)
     {
         Product product = db.Products.FirstOrDefault(x => x.Id == productId);
         if (product != null)
@@ -25,7 +36,7 @@ public class CartController : Controller
             GetCart().AddItem(product, 1);
         }
 
-        return RedirectToRoute("Index", new { returnUrl });
+        return RedirectToRoute("Index");
     }
 
     public RedirectToRouteResult RemoveFromCart(int productId, string returnUrl)
@@ -38,13 +49,14 @@ public class CartController : Controller
     
     public string CartData { get; set; }
     
+    // Сделать сссию
     public Cart GetCart()
     {
-        Cart cart = (Cart)Session["Cart"];
+        Cart cart = HttpContext.Session.Get<Cart>("Cart");
         if (cart == null)
         {
             cart = new Cart();
-            Session["Cart"] = cart;
+            HttpContext.Session.Set<Cart>("Cart",cart);
         }
 
         return cart;

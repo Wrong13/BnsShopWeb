@@ -7,7 +7,7 @@ namespace BnsShopWeb.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
-
+    private BnsContext db;
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
@@ -15,7 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-
+        
         
         return View();
     }

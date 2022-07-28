@@ -1,3 +1,4 @@
+@model BnsShopWeb.Models.CartIndexVM
 
 @{
     ViewBag.Title = "title";
@@ -5,3 +6,27 @@
 }
 
 <h2>Корзина</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Кол-во</th>
+        <th>Продукт</th>
+        <th>Цена</th>
+        <th>Общая цена</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var line in Model.Cart.Lines)
+    {
+        <tr>
+            <td>@line.Quantity</td>
+            <td>@line.Product.Title</td>
+            <td>@line.Product.Price.ToString("# руб")</td>
+            <td>
+                @((line.Quantity * line.Product.Price).ToString("# руб"))
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

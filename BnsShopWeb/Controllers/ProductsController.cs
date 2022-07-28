@@ -1,4 +1,5 @@
 using BnsShopWeb.Models;
+using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -30,6 +31,7 @@ public class ProductsController : Controller
                 TotalItems = db.Products.ToList().Count
             }
         };
+        string PathAndQuery = this.Request.GetEncodedPathAndQuery();
         return View(productsListVm);
     }
 }

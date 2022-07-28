@@ -15,7 +15,7 @@ public class BnsContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseMySql(
-        "server=localhost;user=root;password=MTiqtFLCJG2HI@~F#Gu}|}zhj;database=BnsShopAsp",
+        "server=localhost;user=root;password=passtobeadmin;database=BnsShopAsp",
         new MySqlServerVersion(new Version(8,0,29))
             );
     }

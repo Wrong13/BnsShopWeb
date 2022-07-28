@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zyg4cwDln2rU09t+cxd82G3f6eMLy1jLlBu8+kFjnlJkx1LORSp1gtEujW5jXfKBdefv2U6Vy2nSeVWvFQUsmw==",
+  "dgSpecHash": "Fw4LZ9vhn4xRohMLaqfprRaM/Z9X7rWtNlXgG5JsRWrJsb0fkWSs8g6CTCQiY4YJpwWb0uZIz6YFWF041ih+Tw==",
   "success": true,
   "projectFilePath": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj",
   "expectedPackageFiles": [
@@ -26,10 +26,7 @@
     "/home/wrong/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.1/pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "/home/wrong/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/wrong/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "/home/wrong/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/home/wrong/.nuget/packages/microsoft.netcore.app.ref/6.0.6/microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/wrong/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/wrong/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.6/microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
+    "/home/wrong/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {
