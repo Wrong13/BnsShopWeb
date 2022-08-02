@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

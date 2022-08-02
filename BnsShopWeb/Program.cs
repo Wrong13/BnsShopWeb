@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 
 BnsContext db = new BnsContext();
+
 db.Products.Load();
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,7 +15,11 @@ builder.Services.AddDbContext<BnsContext>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDistributedMemoryCache();
-builder.Services.AddSession();
+builder.Services.AddSession(options =>
+{
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 
 var app = builder.Build();

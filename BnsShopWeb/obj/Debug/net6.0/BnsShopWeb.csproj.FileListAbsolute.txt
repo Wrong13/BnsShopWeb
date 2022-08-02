@@ -38,3 +38,5 @@
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.WebPages.Razor.dll
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/System.Web.WebPages.dll
 /home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.Web.Infrastructure.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Humanizer.dll
+/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll

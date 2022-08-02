@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Muicr2avetQLD9FDe8HCgdxh0zSQp4N5dwdd0F9TgQI=",
+  "Hash": "YEAyxPC9h5Ag1GnJpvkSj0WrRKqxvI9LAh1y/QNRup8=",
   "Source": "BnsShopWeb",
   "BasePath": "_content/BnsShopWeb",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -31,10 +31,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -48,10 +48,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -65,10 +65,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -82,10 +82,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -99,10 +99,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -116,10 +116,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -133,10 +133,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -150,10 +150,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -167,10 +167,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -184,10 +184,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -201,10 +201,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -218,10 +218,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -235,10 +235,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -252,10 +252,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -269,10 +269,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -286,10 +286,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -303,10 +303,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -320,10 +320,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -337,10 +337,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -354,10 +354,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -371,10 +371,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -388,10 +388,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -405,10 +405,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -422,10 +422,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -439,10 +439,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -456,10 +456,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -473,10 +473,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -490,10 +490,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -507,10 +507,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -524,10 +524,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -541,10 +541,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -558,10 +558,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -575,10 +575,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -592,10 +592,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -609,10 +609,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -626,10 +626,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -643,10 +643,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -660,10 +660,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -677,10 +677,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -694,10 +694,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -711,10 +711,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -728,10 +728,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -745,10 +745,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.min.js"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
+      "Identity": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
       "SourceId": "BnsShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/wwwroot/",
@@ -762,7 +762,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.2.0-beta1/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "/home/wrong/.nuget/packages/bootstrap/5.1.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map"
     },
     {
       "Identity": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/Debug/net6.0/scopedcss/bundle/BnsShopWeb.styles.css",

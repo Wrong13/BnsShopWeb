@@ -31,7 +31,15 @@ public class ProductsController : Controller
                 TotalItems = db.Products.ToList().Count
             }
         };
-        string PathAndQuery = this.Request.GetEncodedPathAndQuery();
         return View(productsListVm);
+    }
+
+    public FileContentResult GetImage(int productId)
+    {
+        Product product = db.Products.FirstOrDefault(x => x.Id == productId);
+        if (product != null)
+            return File(product.ImageData, product.ImageMimeType);
+        else
+            return null;
     }
 }
