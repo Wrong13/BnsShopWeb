@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj": {}
+    "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {}
   },
   "projects": {
-    "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj": {
+    "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
         "projectName": "BnsShopWeb",
-        "projectPath": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/BnsShopWeb.csproj",
-        "packagesPath": "/home/wrong/.nuget/packages/",
-        "outputPath": "/home/wrong/RiderProjects/BnsShopWeb/BnsShopWeb/obj/",
+        "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
+        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/wrong/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,6 +54,10 @@
               "target": "Package",
               "version": "[6.0.7, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -79,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/var/run/host/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

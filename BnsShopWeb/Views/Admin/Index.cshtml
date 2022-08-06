@@ -50,9 +50,19 @@
                 @Html.DisplayFor(p=>x.Price)            
             </td>
             <td>
-                @Html.ActionLink("Редактировать","Edit", new {id = x.Id})
-                @Html.ActionLink("Детальней","Details",new {id = x.Id})
-                @Html.ActionLink("Удалить","Delete", new {id = x.Id})
+                <div class="btn-group">
+                @using (Html.BeginForm("Delete","Admin"))
+                {
+                    @Html.Hidden("ProductId",x.Id)
+                    <input
+                        type = "submit"
+                        class="btn btn-outline-info btn-sm"
+                        value = "Удалить"
+                        />
+                }
+                
+               <a asp-action="Edit" asp-route-id="@x.Id" class="btn btn-outline-info btn-sm">Редактировать</a>
+                </div>
             </td>
         </tr>
     }

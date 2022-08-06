@@ -3,7 +3,6 @@ using BnsShopWeb.Controllers;
 using BnsShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc;
 
 BnsContext db = new BnsContext();
 
