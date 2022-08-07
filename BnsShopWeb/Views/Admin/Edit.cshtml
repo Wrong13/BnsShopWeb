@@ -15,13 +15,14 @@
     <link href="~/lib/bootstrap/dist/css/bootstrap.css"/>
 </head>
 
+<div style="margin:0% 25% 0% 25%">
 <h1>Редактирование</h1>
 
 <h4>@Model.Title</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit" method="post">
+    <div class="col-md-4" style="width:100%">
+        <form asp-action="Edit" enctype="multipart/form-data" method="post" >
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
@@ -50,17 +51,36 @@
                 <span asp-validation-for="ImageMimeType" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label>Photo</label>
+                <a class="btn" href="javascript:;">
+                    Выберите файл
+                    <input type="file" name="Image" size="40" 
+                        style="position:absolute;z-index:2;top:0;
+                        left:0;filter:alpha(opacity=0);opacity:0;"
+                        onchange='$("#upload-file-info").html($(this).val());'/>
+                </a>
+                <span class="label label-info" id="upload-file-info"></span>
+                @if (Model.ImageData == null)
+                {
+                        <div>Нет картинки</div>
+                    }
+                    else
+                    {
+                        <img class="img-thumbnail" width="150" height="150"
+                        src="@Url.Action("GetImage","Product", new {Model.Id})"
+                        />   
+                    }
+                </div>
+            <div class="form-group">
                 <input type="submit" value="Сохранить изменения" class="btn btn-primary" />
                 <a asp-action="Index">Вернуться к списку</a>
-
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Вернуться к списку</a>
 </div>
+
 
 
 

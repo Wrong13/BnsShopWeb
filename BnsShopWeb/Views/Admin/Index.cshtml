@@ -51,16 +51,7 @@
             </td>
             <td>
                 <div class="btn-group">
-                @using (Html.BeginForm("Delete","Admin"))
-                {
-                    @Html.Hidden("ProductId",x.Id)
-                    <input
-                        type = "submit"
-                        class="btn btn-outline-info btn-sm"
-                        value = "Удалить"
-                        />
-                }
-                
+                <a asp-action="Delete" asp-route-id="@x.Id" class="btn btn-outline-info btn-sm">Удалить</a>
                <a asp-action="Edit" asp-route-id="@x.Id" class="btn btn-outline-info btn-sm">Редактировать</a>
                 </div>
             </td>
