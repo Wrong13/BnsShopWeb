@@ -40,25 +40,11 @@
                 <input asp-for="Price" class="form-control" />
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
+            
             <div class="form-group">
-                <label asp-for="ImageData" class="control-label"></label>
-                <input asp-for="ImageData" class="form-control" />
-                <span asp-validation-for="ImageData" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ImageMimeType" class="control-label"></label>
-                <input asp-for="ImageMimeType" class="form-control" />
-                <span asp-validation-for="ImageMimeType" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label>Photo</label>
-                <a class="btn" href="javascript:;">
-                    Выберите файл
-                    <input type="file" name="Image" size="40" 
-                        style="position:absolute;z-index:2;top:0;
-                        left:0;filter:alpha(opacity=0);opacity:0;"
-                        onchange='$("#upload-file-info").html($(this).val());'/>
-                </a>
+                <label>Фото</label>
+                <input name="image" type="file" class="form-control"/>
+                
                 <span class="label label-info" id="upload-file-info"></span>
                 @if (Model.ImageData == null)
                 {
@@ -67,7 +53,7 @@
                     else
                     {
                         <img class="img-thumbnail" width="150" height="150"
-                        src="@Url.Action("GetImage","Product", new {Model.Id})"
+                        src="data:image/jpeg;base64,@(Convert.ToBase64String(Model.ImageData))"
                         />   
                     }
                 </div>

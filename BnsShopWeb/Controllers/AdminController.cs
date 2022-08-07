@@ -34,14 +34,21 @@ public class AdminController : Controller
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(Product product, IFormFile image = null)
+    public async Task<IActionResult> Edit([Bind("Id,Title,Type,Price,ImageData,ImageMimeType")]Product product, IFormFile image = null)
     {
        
         if (ModelState.IsValid)
         {
-            if (image != null)
+            if(image.Length>0)
             {
-               
+                byte[] p1 = null;
+                using (var fs1 = image.OpenReadStream()) 
+                using (var ms1 = new MemoryStream())
+                {
+                    fs1.CopyTo(ms1);
+                    p1 = ms1.ToArray();
+                }
+                product.ImageData = p1;
             }
             db.Update(product);
             await db.SaveChangesAsync();
