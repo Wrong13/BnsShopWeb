@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {}
+    "C:\\Users\\ilak7\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {
+    "C:\\Users\\ilak7\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ilak7\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
         "projectName": "BnsShopWeb",
-        "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
-        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\obj\\",
+        "projectPath": "C:\\Users\\ilak7\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\BnsShopWeb.csproj",
+        "packagesPath": "C:\\Users\\ilak7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilak7\\Source\\Repos\\Wrong13\\BnsShopWeb\\BnsShopWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ilak7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

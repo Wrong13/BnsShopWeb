@@ -50,7 +50,9 @@ public class AdminController : Controller
                 }
                 product.ImageData = p1;
             }
-            db.Update(product);
+            if (db.Products.FirstOrDefaultAsync(x => x.Id == product.Id) != null)
+                db.Update(product);
+            else await db.Products.AddAsync(product);
             await db.SaveChangesAsync();
         }
         return RedirectToAction(nameof(Index));
